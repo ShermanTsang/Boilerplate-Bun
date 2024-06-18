@@ -7,9 +7,6 @@
   "bin": {
     "bin-name": "bin/index.js"
   },
-  "files": [
-    ".output/dist"
-  ],
   "description": "",
   "license": "ISC",
   "scripts": {
